@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ZnmjpcX47uWjar1ISPeh3VHmA4HMg4hNcrYlyfDSipu/pkt/onnxNPp/uFg/Jm/1LYYNxsv7rZlE7Pkf9634Iw==",
+  "dgSpecHash": "/3cQKjt8BwZZHzt9/j4LWrZ84z901QCIhvlvzQOpCTnEls4LnuNO/XnPut2cfUXyt1RnOd5ZowmG4VnPr6/e7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\tayna_97l6kwx\\OneDrive\\Documentos\\3° Ano - 2° Bimestre\\PDS\\Api_Fornecedor\\Api_Fornecedor\\Api_Fornecedor.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\tayna_97l6kwx\\.nuget\\packages\\cpf.cnpj\\1.0.2\\cpf.cnpj.1.0.2.nupkg.sha512",
     "C:\\Users\\tayna_97l6kwx\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\tayna_97l6kwx\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\tayna_97l6kwx\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",

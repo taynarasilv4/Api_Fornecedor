@@ -31,3 +31,4 @@ C:\Users\tayna_97l6kwx\OneDrive\Documentos\3° Ano - 2° Bimestre\PDS\Api_Fornec
 C:\Users\tayna_97l6kwx\OneDrive\Documentos\3° Ano - 2° Bimestre\PDS\Api_Fornecedor\Api_Fornecedor\obj\Debug\net7.0\Api_Fornecedor.pdb
 C:\Users\tayna_97l6kwx\OneDrive\Documentos\3° Ano - 2° Bimestre\PDS\Api_Fornecedor\Api_Fornecedor\obj\Debug\net7.0\Api_Fornecedor.genruntimeconfig.cache
 C:\Users\tayna_97l6kwx\OneDrive\Documentos\3° Ano - 2° Bimestre\PDS\Api_Fornecedor\Api_Fornecedor\obj\Debug\net7.0\ref\Api_Fornecedor.dll
+C:\Users\tayna_97l6kwx\OneDrive\Documentos\3° Ano - 2° Bimestre\PDS\Api_Fornecedor\Api_Fornecedor\bin\Debug\net7.0\Library.dll

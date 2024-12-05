@@ -1,0 +1,22 @@
+ID: 1.
+NomeFantasia: Caerd.
+RazaoSocial: Companhia de Aguas e Esgotos de Rondônia Caerd.
+CNPJ: 03.461.039/0001-02.
+Endereco: Rua das pedras.
+Cidade: Ji-Paraná.
+Estado: Rondônia.
+Telefone: 69 3416-3446.
+Email: caerd@gmail.com.
+Responsavel: Dono.
+
+ID: 3.
+NomeFantasia: Energisa.
+RazaoSocial: string.
+CNPJ: 00.864.214/0001-06.
+Endereco: string.
+Cidade: string.
+Estado: string.
+Telefone: string.
+Email: string.
+Responsavel: string.
+
